@@ -1,13 +1,13 @@
-### Hello there!
-### `General Kenobi! You are a bold one.`
+**"Hello there!"**<br>
+_"General Kenobi! You are a bold one."_<br>
+**"And you're an italic one."**<br>
 **_____________________________________________________________________________________________________** <br>
 <br>
 Hi, my name is Thanh. And welcome to my Github profile.<br>
-I am a Unity developer and I love working on anything related to games, as well as drawing and writing.<br>
-I also have worked on front-end development (Angular 2, React JS), backend development (FastAPI, Laravel/PHP) and Machine Learning projects using Python.<br>
-I am currently still learning (and probably continue to do so) about game development, and I always look out for an opportunity to gain more skills and experience on this field. In the past, I had been somewhat familiar with GameMaker Studio 2, and at the moment I am working mainly with Unity. In the future, I hope to expand my knowledge to other engines, such as Unreal Engine.
+I have 6+ years experience in Game Development, especially with Unity Engine.
+Good expertise in C#, Unity and Python. Generally common with Laravel and Javascript.
 
-- 🔭 I’m currently working at Exoty/Erai Asia
+- 🔭 I’m currently working with Unity engine.
 <!--
 **phuthanh1379/phuthanh1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
